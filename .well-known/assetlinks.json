@@ -1,8 +1,0 @@
-[{
-	"relation": ["delegate_permission/common.handle_all_urls"],
-	"target": {
-		"namespace": "android_app",
-		"package_name": "com.disney.shopdisneyparks_goo",
-		"sha256_cert_fingerprints": ["A4:E4:3E:55:43:A4:F1:2A:99:DB:BF:20:BB:C1:0C:3E:A2:C1:2E:D6:28:72:E1:F6:04:7C:C2:A6:57:61:41:BC"]
-	}
-}]

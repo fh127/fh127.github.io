@@ -386,7 +386,7 @@
 		"audiences": [{
 			"key": "a.AppID",
 			"matches": "sw",
-			"values": ["Shop Disney Parks 1.0", "Shop Disney Parks 1.6.1"]
+			"values": ["Shop Disney Parks 1.0"]
 		}],
 		"triggers": [{
 			"key": "pageName",
